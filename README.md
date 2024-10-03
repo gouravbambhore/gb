@@ -10,9 +10,9 @@
 ---
 
 ### 🌐 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/priyanshusingh7779) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-b20073257/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/PriyanshuCoder)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/)
 
 ---
 
@@ -46,20 +46,20 @@
 # 📊 GitHub Stats  
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=spriyanshucoder&theme=neon-palenight&hide_border=true&card_width=705"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=gouravbambhore&theme=neon-palenight&hide_border=true&card_width=705"></td>
   </tr>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spriyanshucoder&theme=2077"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouravbambhore&theme=2077"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spriyanshucoder&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gouravbambhorer&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spriyanshucoder&theme=aura_dark"></td>
   </tr>
 </table>
 
 ---
 
-[![Holopin](https://holopin.me/spriyanshucoder)](https://holopin.io/@spriyanshucoder)
+[![Holopin](https://holopin.me/gouravbambhore)](https://holopin.io/@gouravbambhore)
