@@ -1,10 +1,8 @@
 # 💫 About Me  
 ![Profile Views](https://komarev.com/ghpvc/?username=spriyanshucoder&label=Profile+views&style=for-the-badge&color=green)
-
-- 🔭 I’m currently working on **Golang** and **DevOps**.  
-- 🌱 Learning **Rust** and **GoLang** to deepen my backend development skills.  
-- 👯 Open to collaborating on **Rust**, **Golang**, and **DevOps** projects.  
-- 🤔 Seeking guidance in **Rust** and **Kubernetes**.  
+- 🌱 Learning **Rust** and **MERN** to deepen my backend development skills.  
+- 👯 Open to collaborating on **Rust**and **frontend** projects.  
+- 🤔 Seeking guidance in **Rust**.  
 - ⚡ Outside of coding, I enjoy **traveling**.
 
 ---
